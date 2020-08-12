@@ -1,1 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
+footer_content: "Copyright &copy; since 2020 Gregor von Bergen"
+last_edit_timestamp: true
+heading_anchors: true
+ga_tracking: UA-48818951-8
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
