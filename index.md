@@ -1,5 +1,5 @@
 ---
-title: Bankers source for Python and data science - py.finance
+title: Home
 ---
 
 # Bankers source for Python and data science
